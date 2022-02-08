@@ -14,6 +14,7 @@
  1. <a href="https://radiopaedia.org/articles/covid-19-4?lang=us">Radiopedia Dataset</a>
  1. <a href="https://radiopaedia.org/articles/covid-19-4?lang=us">Medseg Dataset</a>
  
+  ### For Training the Models Download this <a href="https://drive.google.com/file/d/1_M_Ogt5ALYL8Gs685aCN8ipbFwSOpjAz/view?usp=sharing">ZIP File</a> and extract to Datasets Folder.  
  ## Trained Models:
  All Trained Models Required Could Be Found Here : <a href="https://drive.google.com/drive/folders/12tIPjW5lPrTx_6ynPu4JXCsOiBQTFZZ0?usp=sharing"> LINK</a>
   
