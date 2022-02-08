@@ -1,7 +1,13 @@
 # XceptionUNET Segmentation based COVID Detector
  An ensemble of UNET and Xception for COVID detecion using segmented lesions from Lung CT Scans.
  
- Covid was detected by segmenting the anomalous regions from the CT scans of Lungs. The anomalous regions were then classified into COVID and Non Covid Regions.
+ Covid was detected by segmenting the anomalous regions from the CT scans of Lungs. The anomalous regions were then classified into COVID and Non Covid Regions. Dice Loss Was used to train the UNET and Binary Crossentropy is used for training the Classifier.
+ 
+ ## Architecture
+
+ <p align="center">
+ <img src = "](https://user-images.githubusercontent.com/54630055/153004254-a9911ef5-f010-4e6f-bd50-30f0bd1e9f62.png" width = 600 height=400 >
+ </p>
  
  ## Dataset Links:
  
