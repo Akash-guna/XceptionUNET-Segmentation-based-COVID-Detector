@@ -17,6 +17,5 @@
 
 
  ### Segmentation Results:
- <p align="center">
+
 ![seg_res](https://user-images.githubusercontent.com/54630055/153003127-dd2d2123-87a2-4fdc-9e20-bc0c7c0438d1.png)
-</p>
