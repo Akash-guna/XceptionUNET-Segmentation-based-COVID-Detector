@@ -6,7 +6,7 @@
  ## Architecture
 
  <p align="center">
- <img src = "](https://user-images.githubusercontent.com/54630055/153004254-a9911ef5-f010-4e6f-bd50-30f0bd1e9f62.png" width = 600 height=400 >
+ <img src = "https://user-images.githubusercontent.com/54630055/153004254-a9911ef5-f010-4e6f-bd50-30f0bd1e9f62.png" width = 600 height=400 >
  </p>
  
  ## Dataset Links:
@@ -26,3 +26,4 @@
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/54630055/153003127-dd2d2123-87a2-4fdc-9e20-bc0c7c0438d1.png" width = 600 height=400 >
  </p>
+
